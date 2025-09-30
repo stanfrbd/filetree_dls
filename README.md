@@ -3,7 +3,7 @@
 This unoptimized script attempts to create a filetree from a Ransomware DLS (Data Leak Site)
 
 > [!IMPORTANT]
-> Won' work if there is a Captcha
+> Won't work if there is a Captcha
 
 # Install dependencies
 
