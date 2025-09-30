@@ -26,7 +26,7 @@ tor --runasdaemon 0
 
 ```
 # Set base folder for enumeration
-base_url = "http://website.onion/dls"
+start_url = "http://website.onion/dls"
 ```
 
 # Run the script 
